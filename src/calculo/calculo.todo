@@ -1,0 +1,6 @@
+#Regras de calculos para juros
+
+Regras: (3)
+    paga-se 5% de juros até 30 dias de atraso
+    paga-se 10% de juros de 31 até 60 dias de atraso
+    paga-se 15% de juros a partir de 60 dias de atraso
